@@ -1,0 +1,5 @@
+# Ignore user information
+*.csv
+
+# Ignore pycharm files
+.idea/
