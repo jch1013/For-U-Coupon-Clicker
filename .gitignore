@@ -3,3 +3,6 @@
 
 # Ignore pycharm files
 .idea/
+
+# Ignore cache
+__pycache__/
